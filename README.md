@@ -1,2 +1,2 @@
 # test-repo
-Created this repository for testing
+Created this repository for learning SpringBoot API
